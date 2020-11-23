@@ -1,0 +1,64 @@
+#viewScores {
+  color: black;
+  text-decoration: none;
+}
+
+#time {
+  float: right;
+}
+
+#container{
+  text-align: center;
+  width: 50%;
+  height: 50%;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#goBack {
+
+  color: white;
+  text-decoration: none;
+}
+
+#startQuiz {
+  color: white;
+  text-decoration: none;
+}
+
+button {
+  color: white;
+  background-color: rgb(132, 69, 177); 
+}
+#listChoices {
+  list-style: none;
+}
+
+#li1,#li2, #li3, #li4 {
+  text-align: left;
+  background-color: rgb(132, 69, 177);
+  margin-top: 10px;
+  padding: 5px 15px;
+  width: 30%;
+  font-size: 14px;
+  color: white;
+}
+#userAnswer {
+  text-align: left;
+  background-color:white;
+  margin-top: 10px;
+  padding: 5px 15px;
+  width: 60%;
+  font-style: italic;
+  font-size: 18px;
+  color: burlywood;
+}
+
+#score{
+  text-align: center;
+  font-size: 20px;
+   
+
+}
+
