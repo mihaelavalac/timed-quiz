@@ -21,3 +21,4 @@ The last page is the high-scores.html which displays all users scores. On this p
 
 #Deployment
 
+https://mihaelavalac.github.io/timed-quiz/
